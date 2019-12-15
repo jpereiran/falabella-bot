@@ -1,2 +1,2 @@
 # falabella-bot
-DIalogflow bot with Falabella's website functionalities
+Slack bot with Dialogflow integration to help the users with Falabella's website functionalities
